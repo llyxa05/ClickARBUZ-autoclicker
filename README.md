@@ -1,4 +1,3 @@
-```markdown
 # ClickARBUZ AutoClicker
 
 ## 🌟 Описание
