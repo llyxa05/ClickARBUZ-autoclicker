@@ -30,3 +30,7 @@ ClickARBUZ AutoClicker — это продвинутый автокликер д
    python3 arbuzclicker.py
    ```
    Вуаля! Автокликер запущен и готов к сбору монет!
+   ![image](https://github.com/llyxa05/ClickARBUZ-autoclicker/assets/77862722/50d0e819-bdc4-4a79-bfa0-6c4096151c66)
+
+## ⚠️ Отказ от ответственности
+Использование ClickARBUZ AutoClicker осуществляется на ваш собственный риск. Авторы не несут ответственности за возможные блокировки или иные санкции со стороны разработчиков [КликниАрбуз](https://t.me/wmclick_bot).
